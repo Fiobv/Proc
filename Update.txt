@@ -1,5 +1,3 @@
 Version : 0.0.1 beta
 Author  : frost_hawk1
 Update  : upload new files !
-
-HUTIN PYI
