@@ -1,3 +1,5 @@
+The script for hacking the dinosaur in Chrome just enter it from the new built-in console
+
 Runner.instance_.playingIntro = true 
 Runner.instance_.playingIntro = false 
 Runner.instance_.gameOver = function(){}; 
