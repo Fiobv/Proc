@@ -1,4 +1,4 @@
 Author  : frost_hawk1
-Update  : New version 0.1.0
+Update  : New version 0.1.1
 
-Global Update, bug fix, function add !
+Global Update, bug fix, function add, color !
