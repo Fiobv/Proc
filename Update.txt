@@ -1,3 +1,4 @@
 Author  : frost_hawk1
-Update  : New version 0.0.6
-Release ! 
+Update  : New version 0.1.0
+
+Global Update, bug fix, function add !
